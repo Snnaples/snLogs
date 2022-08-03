@@ -1,0 +1,1 @@
+fx_version 'cerulean'; game 'gta5'; author 'Snnaples'; server_script 'main.js'
