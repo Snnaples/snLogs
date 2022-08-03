@@ -14,5 +14,5 @@ exports('log', (fileName, content) => {
     });
 });
 
--- exports.snLogs.log('logs.txt', 'content')
+// exports.snLogs.log('logs.txt', 'content')
 
