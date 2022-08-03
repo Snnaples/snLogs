@@ -14,6 +14,5 @@ exports('log', (fileName, content) => {
     });
 });
 
-console.log(exports['snLogs']['log']('test.txt','dsaddasdsa'));
-   
+-- exports.snLogs.log('logs.txt', 'content')
 
